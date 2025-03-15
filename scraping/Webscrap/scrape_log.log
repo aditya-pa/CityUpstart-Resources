@@ -1,0 +1,16 @@
+2025-03-10 08:40:59,146 - INFO - Starting FAQ scraping process
+2025-03-10 08:40:59,146 - INFO - Loaded 2 websites from 'websites.json'
+2025-03-10 08:40:59,146 - INFO - Attempting to scrape https://www.irishimmigration.ie/registering-your-immigration-permission/frequently-asked-questions-for-registration/ with accordion ID 'accordion-17799-1'
+2025-03-10 08:41:00,754 - INFO - Found 39 FAQs on https://www.irishimmigration.ie/registering-your-immigration-permission/frequently-asked-questions-for-registration/
+2025-03-10 08:41:00,755 - INFO - Attempting to scrape https://www.irishimmigration.ie/coming-to-visit-ireland/frequently-asked-questions/ with accordion ID 'accordion-14617-1'
+2025-03-10 08:41:00,978 - INFO - Found 17 FAQs on https://www.irishimmigration.ie/coming-to-visit-ireland/frequently-asked-questions/
+2025-03-10 08:41:00,980 - INFO - Combined FAQs saved to 'combined_faqs.csv'. Total FAQs: 56
+2025-03-10 08:41:00,980 - INFO - Scraping process completed
+2025-03-10 08:41:05,606 - INFO - Starting FAQ scraping process
+2025-03-10 08:41:05,607 - INFO - Loaded 2 websites from 'websites.json'
+2025-03-10 08:41:05,607 - INFO - Attempting to scrape https://www.irishimmigration.ie/registering-your-immigration-permission/frequently-asked-questions-for-registration/ with accordion ID 'accordion-17799-1'
+2025-03-10 08:41:06,950 - INFO - Found 39 FAQs on https://www.irishimmigration.ie/registering-your-immigration-permission/frequently-asked-questions-for-registration/
+2025-03-10 08:41:06,951 - INFO - Attempting to scrape https://www.irishimmigration.ie/coming-to-visit-ireland/frequently-asked-questions/ with accordion ID 'accordion-14617-1'
+2025-03-10 08:41:07,167 - INFO - Found 17 FAQs on https://www.irishimmigration.ie/coming-to-visit-ireland/frequently-asked-questions/
+2025-03-10 08:41:07,169 - INFO - Combined FAQs saved to 'combined_faqs.csv'. Total FAQs: 56
+2025-03-10 08:41:07,169 - INFO - Scraping process completed
